@@ -1,11 +1,12 @@
+import Header from "../components/Header";
 
 
 function about() {
     return (
         <div>
-        <Head>
+        <Header>
           <title>About page</title>
-        </Head>
+        </Header>
           hey about  
 
         </div>
